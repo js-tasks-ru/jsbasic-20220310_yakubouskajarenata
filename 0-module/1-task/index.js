@@ -1,5 +1,5 @@
 function sum(m, n) {
 	return m + n // ваш код...
 }
-sum(1, 1)
-sum(2, 5)
+let r = sum(1, 1);
+let y = sum(2, 5);
