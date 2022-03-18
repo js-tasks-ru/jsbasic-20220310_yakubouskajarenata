@@ -3,8 +3,8 @@ function factorial(n) {
 		result *= n;
 	return result; // ваш код...
 }
-alert(factorial(0));
-alert(factorial(1));
-alert(factorial(3));
-alert(factorial(5));
+factorial(0);
+factorial(1);
+factorial(3);
+factorial(5);
 
