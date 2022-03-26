@@ -1,7 +1,7 @@
 let calculator = {
 	read(arg1, arg2) {
 
-		return calculator.value1 = [arg1], calculator.value2 = [arg2];
+		return calculator.value1 = arg1, calculator.value2 = arg2;
 
 	},
 	sum() {
