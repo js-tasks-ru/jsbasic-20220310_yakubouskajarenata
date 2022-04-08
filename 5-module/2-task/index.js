@@ -6,4 +6,5 @@ function toggleText() {
 		div.hidden = !div.hidden;
 
 	}
+
 }
